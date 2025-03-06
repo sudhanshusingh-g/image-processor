@@ -1,0 +1,25 @@
+{
+  "name": "image-compression-service",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Async service for validating, compressing, and storing images from CSV files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhanshusingh-g/image-processor.git"
+  },
+  "keywords": [
+    "async",
+    "image-processing",
+    "image-compression"
+  ],
+  "author": "Sudhanshu Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudhanshusingh-g/image-processor/issues"
+  },
+  "homepage": "https://github.com/sudhanshusingh-g/image-processor#readme"
+}
